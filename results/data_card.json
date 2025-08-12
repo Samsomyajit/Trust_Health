@@ -1,0 +1,15 @@
+{
+  "generator": "CTGAN (SDV)",
+  "epochs": 300,
+  "batch_size": 100,
+  "notes": "Edge-table training; synthetic \u03c4 rebuilt with fixed ID reindexing. Damped social-score iteration used.",
+  "layers": [
+    "H_intra",
+    "D_intra",
+    "P_intra",
+    "HD",
+    "DH",
+    "DP",
+    "PD"
+  ]
+}
