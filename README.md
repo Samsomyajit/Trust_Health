@@ -14,6 +14,9 @@ framework supports scalable healthcare infrastructure, enabling effective patien
 recommendations, and enhanced decision-making pathways.
 
 
+## Instructions
+Run trust_score.py -> followed by trust_new.ipynb -> synthetic_hcn.ipynb
+
 ## Liscensing
    Copyright 2025 Somyajit Chakraborty, Avijit Gayen, Angshuman Jana, Joydeep Chakraborty
 
